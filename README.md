@@ -1,2 +1,4 @@
 # Hello-world
-Just another repository
+Hi,Humans
+
+Aki-Niwa here,I will try to use GitHub from now on.
